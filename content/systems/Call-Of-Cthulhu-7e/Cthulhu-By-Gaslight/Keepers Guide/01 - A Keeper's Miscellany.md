@@ -90,3 +90,87 @@ chance they’ll bring some unwanted souvenir away—lice, fleas, bedbugs, scabi
 
 ## Workhouse
 ![[Workhouse 1.png]]
+
+
+# Crime & Punishment
+![[Crime and punishment.png]]
+
+Victorian sentencing is notable in that the legal system does not treat crimes of violence (short of murder) as more egregious than crimes against property. Society treats violence among the working classes as an intractable moral failing, and it is common to receive only a few months’ imprisonment for beating someone to the verge of death. Notorious murderer Charles Peace (hanged 1879), had on a previous occasion nearly killed a policeman and received only a six-year sentence, whereas a burglary without violence earned him eight years “inside.”
+
+## Typical sentences for common crimes
+- Attempted murder: from 12 months imprisonment to 8 years of hard labor.
+- Petty theft (first offense): from a caution or small fine, up to 3 to 6 months imprisonment. Birching (boys only).
+- Petty theft (repeat offenses): up to 10 years hard labor. Birching (boys only).
+- Housebreaking, burglary, or robbery (first offense): from 6 months hard labor to 2 years imprisonment.
+- Housebreaking, burglary, or robbery (repeat offenses): up to 10 years imprisonment.
+- Fraud: up to 5 years hard labor.
+- Assault (first offense): a fine of up to £5, or up to 3 months imprisonment.
+- Assault (repeat offenses): up to 4 years hard labor.
+- Grievous bodily harm (first offense): from 12 months imprisonment to 4 years hard labor.
+ - Grievous bodily harm (repeat offense): up to 7 years hard labor.
+
+## Penalties
+In 1896, for every 1,000 guilty verdicts passed, an average of 516 result in imprisonment (of which 19
+include penal servitude), 194 in fines, 120 are bound over on their own recognizances, and 34 are youths who are sent to industrial or reformatory schools.
+
+Judges have tremendous discretion over the sentences handed down for non-capital crimes. In
+1878, the Home Secretary becomes aware of “serious irregularities which pervade the whole system of sentences” that experts attribute to “the personal opinions of the judges.” Social class, character witnesses, personal circumstances, and genuine penitence can make a considerable difference to the sentence handed down. First offenders are often treated leniently to get them to reform through mercy—although not always; in one instance, a man receives a sentence of seven years hard labor for stealing a hen. Repeat offenders are more likely to have the book thrown at them.
+
+Due to Victorian attitudes about the higher nature of the female character, crimes against women almost always receive a harsher sentence than equivalent offenses committed against a man, while a woman can usually expect a lighter sentence than a man for committing the same offense. The exceptions to this are women poisoners (Victorian society is paranoid about the possibility of women poisoning their husbands) and child-murderers (who shatter the myth of maternal purity).
+In addition, domestic violence is widespread and rarely punished, not least because the prosecution
+must be brought by the injured party; though it is commonplace for working-class women to initiate
+prosecutions against their abusive husbands simply to shame them into better behaviour, not with any desire or expectation of having them locked up—an imprisoned man can’t pay rent, after all.
+
+Juveniles, tried in adult courts, spend their sentences in adult jails throughout the 19th century.
+![[Prison.png]]
+
+## Fines
+Courts relatively rarely levy fines, as most criminals are not able to afford them. Magistrates and judges may impose fines if they think the criminal has the wherewithal to pay and will do so promptly.
+
+## *Getting away with it*
+*Even if investigators fall into the hands of the forces of law, there is a better than average chance they can escape legal punishment to battle the Mythos another day—if that is the Keeper’s preference. At the end of the 19th century, as many as half of all legal cases collapse before the courts reach a verdict. There is no Director of Public Prosecutions until 1880, and, even then, he does little. Justices of the Peace and other officials may prosecute “on indictment” by the coroner’s jury if there is a body, and the police may bring prosecutions if they catch a thief, but most crimes—even murder cases—are usually “by appeal” of an interested party such as a victim’s relative. Many public prosecution cases are prepared by the police who, lacking resources, time, or formal legal training, make mistakes and leave loopholes for lawyers to exploit. In minor cases, at the Keeper’s discretion, a simple Law or even Luck roll will suffice to see if a prosecution collapses before the verdict. Failing that, the judge may simply be inclined to bind the malefactor over on their own recognizance. This is a double-edged sword: what applies to investigators applies to villains too.*
+## Flogging & Birching
+Only a judge can pass this sentence, not a magistrate. A law passed in 1820 prohibits the flogging of women and girls. Always combined for adult men with a term of imprisonment, flogging is with either a cat o’ nine tails or the birch rod—the judge specifies which and how many strokes. The law also prevents use of the “cat” on boys under 16, but not the birch. Flogging is only for crimes of robbery with violence, vagrancy, and crimes of vice, such as importuning a minor and pimping, and for the punishment of those already incarcerated, if they break prison rules.
+
+Authorities consider birching a particularly suitable punishment for boys aged 14 or under (16 or under in Scotland), as they view it as a relatively minor punishment and more humane than imprisonment; it’s almost always ordered as a punishment for petty theft. The birch used is smaller and lighter than the ones used on adult men in prison. After 1879, it takes the form of an immediate birching by a policeman, to a maximum of 12 strokes, in the nearest police station or sometimes in the court building itself.
+
+## Hard labour
+Also known as penal servitude. Any lengthy prison term may include at least a period of hard labour. By the Prison Act (1865), every male prisoner over 16 sentenced to a “term with hard labour” must spend at least three months of his sentence in this way. Examples of such labour include rock-breaking or road-building on a chain gang, oakum-picking (untwisting old ropes), mailbag sewing, or netmaking. The work is intentionally tiring and monotonous—the better to teach inmates the error of their ways and break their will. Some prisons have workshops where inmates make useful items such as shoes and furniture. Where meaningful labour is not available, futile labour is the substitute.
+
+The penal treadmill is a rotating, stepped device that prisoners must climb. A stint on the treadmill
+consists of 15 minutes climbing, followed by five minutes rest, for six hours a day. It may power prison machinery, such as a pump or a flour mill, or the energy may simply go to waste (known as “grinding the wind”). Alternatively, the crank machine consists of a small wheel, like the wheel of a paddle steamer, and a handle, which, turned by the prisoner, makes it revolve in a box partially filled with sand. A counter on the crank ensures that the prisoner works hard enough to “earn” his meals.
+By 1895, use of these devices is falling off; there are only 39 treadmills and 29 cranks in use in English
+prisons, and legislation abolishes them entirely soon after the turn of the century.
+
+## Life Sentences
+It is important to note that in Britain, even in the 19th century, a “life sentence” does not mean “the rest of your life.” Generally, it means not less than seven years, and is usually a decade or so. The actual length of time served depends on the attitude of the prisoner—are they cooperative, non-violent, and humble? Do they appear to have seen the error of their ways? Do they still
+represent a threat to law and order? Also considered is the level of public interest in their release.
+
+Campaigns by high-profile figures, influential persons, the press, or large numbers of the public,
+can shorten sentences considerably. It is quite unusual for “Lifers” to die of old age inside prison;
+they almost always end up out “on License” once they start to become decrepit—typically, they end up in the workhouse at this point. From 1877, such decisions rest with the Prison Commission, and may be directed by the Home Secretary, who also recommends the appointment, by royal warrant, of the Commissioners.
+
+## Prisons
+By the latter part of the 19th century, prison reformers have ensured that life in prison is no longer quite the miserable hellhole it once was, with with unlit common rooms where prisoners of every type were crammed together. The ending of transportation to the colonies in 1868 means that many new prisons appear out of necessity—90 of them by 1870. In general, these now allow light and space, and prisoners have their own cell with adequate sanitation facilities.
+
+The prison diet is nutritious, if extremely monotonous—for some criminals, it might be the best meals they will ever eat. Prisoners doing hard labour receive an adequate diet to ensure they are fit enough to carry out their sentence. Incarceration’s objective is to perform both a deterrent and reforming effect; strict discipline without undue pain is the intention. Each cell in Milburn Prison has a single window that emits light from a central courtyard, and holds a washing tub, a wooden stool, a bed, and several “improving books,” including a Bible, a prayer book, a hymn-book, and an arithmetic book.
+
+The reality is, of course, much harsher than the stated intention. “Hard labour, hard fare, and a hard
+bed” is the overall culture. After 1865, all prisons run what authorities call the “separate system”
+where jailers actively prevent prisoners from interacting with each other. The intention is twofold:
+first, to prevent the development of conspiracies, partnerships, and the acquisition of criminal skills; and second, a belief that long periods of silent contemplation with only a Bible for company can awaken the “small quiet voice” of the conscience, resulting in inmates renouncing their life of crime and becoming contributing members of society.
+
+Inmates in the separate system spend the first nine months of their sentence in solitary confinement before being allowed to join the main prison population. Even here, their interactions are severely limited, as during exercise periods (usually one hour per day) many prisons require inmates to wear masks that allow them to see only their feet and their food. Work takes place in the prisoner’s cell. Church services (essential for the moral development of the criminal) are mandatory; to prevent prisoners communicating, prison chapels have individual pews surrounded on three sides, forcing the members of the congregation to look at the pulpit.
+
+Under the less staff-intensive “silent system,” more face-to-face contact might occur during communal labour and dining, and even shared accommodation, but regulations strictly forbid prisoners from speaking at all. If discovered communicating in any way, inmates face severe punishment, including a bread-and-water diet, a return to solitary confinement, and flogging.
+Prisoners develop means of communicating, including singing their conversations during hymns (surrounding inmates sing louder to cover up the conversation from the warders), lip reading, sign language, and slipping notes between cracks in bricks and woodwork.
+
+The degree of severity with which jailers enforce these regulations varies from prison to prison. Most
+harsh is Pentonville Prison, an institution feared by many, while in other places discipline is relatively lax. The system remains in force until the Gladstone Committee of 1894–5, which introduces more lenient conditions. The 1898 Prisons Act effectively abolishes the solitary system; the duration of solitary confinement is now a maximum of one month.
+
+The psychological effects of long-term isolation in prison can be devastating. Suicide rates are high.
+***Keepers may wish to impose a Sanity reduction (0/1D6 loss) on those imprisoned***, to reflect the consequences of this “humane and improving regime.”
+
+## Famous Crimes
+
+Here are some examples of late-Victorian crimes, which may spark inspiration for plots or serve as background for characters and scenarios.
