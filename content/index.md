@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Scott's TTRPG Shite
+banner: "![[coc header.webp]]"
+tags:
+  - index
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
