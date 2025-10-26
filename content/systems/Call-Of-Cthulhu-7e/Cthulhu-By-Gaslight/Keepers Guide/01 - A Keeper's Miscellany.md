@@ -176,71 +176,17 @@ The psychological effects of long-term isolation in prison can be devastating. S
 Here are some examples of late-Victorian crimes, which may spark inspiration for plots or serve as background for characters and scenarios.
 
 ### Trial of the Detectives (1877)
-Also known as the “Turf Fraud Scandal,” the Trial of
-the Detectives did much to undermine public trust in
-the still relatively new plainclothes detective branch
-of the police force. The case began with the arrest in
-Rotterdam in the Netherlands of Harry Benson and
-William Kurr, British confidence tricksters who had
-been running a fraudulent betting ring on English
-horse races across the continent, netting tens of
-thousands of pounds in the process.
-When shipped back to London, the men revealed
-that they got away with it for so long because they were
-paying Metropolitan Police detectives to protect them.
-Three detectives: Detective Chief Inspectors Palmer and
-Druscovitch, and Detective Meiklejohn, received guilty
-verdicts for perverting the course of justice, while a fourth
-officer, Detective Chief Inspector Clarke, was acquitted
-but required to resign. As a result of this case, Scotland
-Yard reorganized police detectives into a dedicated unit
-in 1878—the Criminal Investigation Department, or CID.
+Also known as the “Turf Fraud Scandal,” the Trial of the Detectives did much to undermine public trust in the still relatively new plainclothes detective branch of the police force. The case began with the arrest in Rotterdam in the Netherlands of Harry Benson and William Kurr, British confidence tricksters who had been running a fraudulent betting ring on English horse races across the continent, netting tens of thousands of pounds in the process.
+
+When shipped back to London, the men revealed that they got away with it for so long because they were paying Metropolitan Police detectives to protect them. Three detectives: Detective Chief Inspectors Palmer and Druscovitch, and Detective Meiklejohn, received guilty verdicts for perverting the course of justice, while a fourth officer, Detective Chief Inspector Clarke, was acquitted but required to resign. As a result of this case, Scotland Yard reorganized police detectives into a dedicated unit in 1878—the Criminal Investigation Department, or CID.
 
 ### The Barnes Mystery (1879)
-This case, also known as the Richmond Murder, was
-notorious because it was a manifestation of a great
-middle-class fear: that house servants might turn
-violently upon their employers. On March 5, 1879, a
-box washed up near Barnes Railway Bridge containing
-a woman’s torso and legs, all wrapped in brown paper.
-A few days later, Kate Webster, the live-in maid of
-the widowed and somewhat eccentric Mrs. Julia
-Thomas, was seen by neighbors in Richmond trying
-to offload the house’s furniture to a Hammersmith
-publican (owner of a drinking house) while wearing
-her mistress’ clothes and using her name.
-While Webster fled to her home in Ireland, the
-police searched the semi-detached house in Richmond
-and found fingerbones and bloodstains—and a letter
-with Webster’s home address. The head constable of
-Wexford, aware of Scotland Yard‘s interest in Webster,
-recognized her from a previous larceny arrest, and the
-Royal Irish Constabulary traced her to her Killanne
-and arrested her at her uncle’s farm. Crowds lined
-the streets in both Ireland and London to gawk and
-jeer her along her route. She tried unsuccessfully to
-blame the publican and two of her own friends for
-the murder, as well as pleading pregnancy, but was
-convicted at the Old Bailey and hanged—making a full
-confession before she died.
-Webster had a long criminal history and a short,
-unsuccessful career as a maidservant. She’d quarreled
-with Mrs. Thomas who’d given her a few days’ notice
-at the end of February, only a month after being
-engaged. She’d murdered her mistress by pushing
-her downstairs, dismembered the body, boiled it in
-the scullery copper, burned as much as she could,
-buried the head (which didn’t turn up until 2010),
-and dropped the rest in the Thames. She then spent
-three weeks living under Thomas’ identity—a further
-outrage to Victorian sensibilities—before anyone
-discovered her ruse. There were also claims that
-she offered the rendered fat to local people as beef
-dripping. The crime inspired multiple street ballads.
-The semi-detached murder house at 2 Mayfield
-Cottages, shut up for 20 years, was unsaleable and
-acquired a reputation for being haunted; it was the
-subject of several paranormal vigils.
+This case, also known as the Richmond Murder, was notorious because it was a manifestation of a great middle-class fear: that house servants might turn violently upon their employers. On March 5, 1879, a box washed up near Barnes Railway Bridge containing a woman’s torso and legs, all wrapped in brown paper. A few days later, Kate Webster, the live-in maid of the widowed and somewhat eccentric Mrs. Julia Thomas, was seen by neighbours in Richmond trying to offload the house’s furniture to a Hammersmith publican (owner of a drinking house) while wearing her mistress’ clothes and using her name.
+
+While Webster fled to her home in Ireland, the police searched the semi-detached house in Richmond and found fingerbones and bloodstains—and a letter with Webster’s home address. The head constable of Wexford, aware of Scotland Yard‘s interest in Webster, recognized her from a previous larceny arrest, and the Royal Irish Constabulary traced her to her Killanne and arrested her at her uncle’s farm. Crowds lined the streets in both Ireland and London to gawk and jeer her along her route. She tried unsuccessfully to blame the publican and two of her own friends for
+the murder, as well as pleading pregnancy, but was convicted at the Old Bailey and hanged—making a full confession before she died.
+
+Webster had a long criminal history and a short, unsuccessful career as a maidservant. She’d quarrelled with Mrs. Thomas who’d given her a few days’ notice at the end of February, only a month after being engaged. She’d murdered her mistress by pushing her downstairs, dismembered the body, boiled it in the scullery copper, burned as much as she could, buried the head (which didn’t turn up until 2010), and dropped the rest in the Thames. She then spent three weeks living under Thomas’ identity—a further outrage to Victorian sensibilities—before anyone discovered her ruse. There were also claims that she offered the rendered fat to local people as beef dripping. The crime inspired multiple street ballads. The semi-detached murder house at 2 Mayfield Cottages, shut up for 20 years, was unsaleable and acquired a reputation for being haunted; it was the subject of several paranormal vigils.
 
 ### The Resurrected Earl (1881)
 ![[The Resurrected Earl.png]]
@@ -426,3 +372,175 @@ Keepers wanting to set a scenario in the Murder Castle, or during the Chicago Wo
 # Asylums
 ![[Asylum.png]]
 
+Asylums tended to fall structurally into one of three types: the "conglomerate," a hodgepodge of miscellaneous structures, such as Suffolk Country Asylum; the "corridor," with wards connected by corridors up to a quarter of a mile in length, such as Colney Hatch Lunatic Asylum in Middlesex (it has the longest indoor corridor in Britain); and the "pavilion," where rows of female and male blocks each house up to 200 patients, such as Leavesden Hospital in Hertfordshire.
+
+Usually, an asylum resembles a large country house, often with a spacious landscaped garden of many acres. Some include farms and sports fields, as well as airing courts to allow patients to view the surrounding countryside (fresh air and exercise being an important part of treatment).
+
+Of the major asylums, Bethlem is by far the worst for general maltreatment. Holloway Sanatorium is the asylum for Keepers who intend their investigators to have an easy chance of absconding; it is a philanthropic model of progressive care for harmless patients-a refuge for up to a year for middle-class people suffering from temporary breakdowns-with an experimental and open regime (inmates may even walk into the local village to shop). For the murderously insane, high-security incarceration is available from the penal system at Broadmoor Criminal Lunatic Asylum, which has five blocks for male patients and one for female.
+
+A patient's standing, as either a pauper or private patient, determines their level of housing in a ward appropriate to their status. The wards of private patients have fewer beds and a degree of privacy, while pauper wards squeeze in as many beds as staff can fit. Usually, there is strict segregation by sex, with male and female wards housed in different wings or in separate buildings.
+
+Asylum life is regimented, based on clear routines and orderliness, which is considered calming for the patients. Patients wake at 7:00 am for breakfast (tea, coffee, or cocoa, with porridge and bread), followed by a midday meal at 12:30 pm, and later, a tea (bread and cake) served in the early evening. Outside of meal times, routines often differ for men and women. A male patient might work on the asylum's farm, in the bakery, or in a kitchen, while a female patient can expect to remain inside, working in a laundry, sewing in a "mending room," or cleaning.
+
+Those who can't (or won't) work might spend time in an outside airing court for an hour in the morning and afternoon, but otherwise remain confined to their ward. Difficult patients usually are subject to restraint, e.g., a straitjacket or tied to a bed. Restraint in a cell is only for the most troubling or aggressive patients.
+
+As the new century approaches, new techniques and treatments came to the fore, as well as more benevolent caring practices, but such forward thinking varied greatly between institutions. It isn't until the $20^{\text {th }}$ century that newer treatments, such as electroconvulsive therapy (ECT) and lobotomy (removal of parts of the brain), begin to see use. Treatments like group therapy, anti-depressants, and anti-psychotics are not known until well into the mid$20^{\text {th }}$ century.
+
+Note that a high proportion of those admitted to a Victorian asylum would be suffering from the psychosis and delirium of tertiary syphilis, for which no cure was available, and death was the only outcome.
+
+### Table 2: Asylums
+
+| **London Area**                   | **Location**                      | **Date Founded** | **Cure Rate** | **Capacity** |
+| :---------------------------- | :---------------------------- | :----------- | :-------- | :------- |
+| Bethlem Hospital              | St George's Fields, Southwark | 1247         | 20\%      | 300      |
+| City of London Lunatic Asylum | Stone, nr. Dartford           | 1866         | 30\%      | 470      |
+| Claybury Lunatic Asylum       | Woodford Bridge, Middlesex    | 1893         | 40\%      | 2,500    |
+| Colney Hatch Lunatic Asylum   | Friern Barnet (now Barnet)    | 1851         | 25\%      | 2,500    |
+| The Heath Asylum              | Bexley                        | 1898         | 30\%      | 2,000    |
+
+| **North of England**                 | **Location**               | **Date Founded** | **Cure Rate** | **Capacity** |
+| :------------------------------- | :--------------------- | :----------- | :-------- | :------- |
+| Lancashire County Lunatic Asylum | Lancaster              | 1816         | 30\%      | 2,100    |
+| Liverpool Lunatic Asylum         | Lime Street, Liverpool | 1792         | 20\%      | 70       |
+| Manchester Royal Lunatic Asylum  | Manchester             | 1849         | 40\%      | 300      |
+| North Riding Lunatic Asylum      | Clifton, York          | 1847         | 20\%      | 709      |
+| Newcastle-upon-Tyne City Asylum  | Gosforth, Newcastle    | 1869         | 35\%      | 503      |
+| The Friends' Retreat             | York                   | 1792         | 45\%      | 160      |
+
+| **Midlands and East of England**                 | **Location**                   | **Date Founded** | **Cure Rate** | **Capacity** |
+| :------------------------------------------- | :------------------------- | :----------- | :-------- | :------- |
+| Buckinghamshire County Asylum                | Stone, Aylesbury           | 1853         | 40\%      | 480      |
+| Holloway Sanatorium                          | Virginia Water, Surrey     | 1885         | 50\%      | 410      |
+| Leicester \& Rutland Asylum                  | Victoria Road, Leicester   | 1837         | 30 \%     | 480      |
+| Lincolnshire County Asylum                   | Bracebridge, Lincoln       | 1852         | 40\%      | 680      |
+| Norwich Borough Asylum                       | Hellesdon, Norwich         | 1880         | 30\%      | 315      |
+| Nottingham Borough Lunatic Asylum            | Mapperley Hill, Nottingham | 1880         | 30\%      | 585      |
+| Oxford County Pauper Lunatic Asylum          | Littlemore                 | 1846         | 40\%      | 553      |
+| Royal Naval Hospital (inc. asylum from 1863) | Great Yarmouth, Norfolk    | 1863         | 40\%      | 227      |
+| Warwickshire County Pauper Lunatic Asylum    | Hatton, Warwick            | 1852         | 40\%      | 1,047    |
+
+| **South of England**                | **Location**             | **Date Founded** | **Cure Rate** | **Capacity** |
+| :---------------------------------- | :----------------------- | :--------------- | :------------ | :----------- |
+| Broadmoor Criminal Lunatic Asylum   | Crowthorne, Berkshire    | 1863             | 20\%          | 665          |
+| City of Exeter Lunatic Asylum       | Exeter, Devon            | 1886             | 40\%.         | 377          |
+| Cornwall County Asylum              | Bodmin, Cornwall         | 1820             | 35\%          | 750          |
+| Hampshire County Asylum             | Knowle, Hampshire        | 1852             | 30\%          | 1,061        |
+| Kent County Asylum                  | Maidstone, Kent          | 1833             | 40\%          | 1,577        |
+| Plymouth Borough Asylum             | Ivybridge, Devon         | 1891             | 30\%          | 275          |
+| Royal Military Lunatic Hospital     | Netley, Hampshire        | 1870             | 35\%          | 1,077        |
+| Wales                               | Location                 | Date Founded     | Cure Rate     | Capacity     |
+| Joint Counties' Lunatic Asylum      | Abergavenny, South Wales | 1851             | 30\%          | 1,077        |
+| North Wales Counties Lunatic Asylum | Denbigh, North Wales     | 1848             | 40\%          | 1,500        |
+| Scotland                            | Location                 | Date Founded     | Cure Rate     | Capacity     |
+| Aberdeen Royal Lunatic Asylum       | Aberdeen                 | 1800             | 40\%          | 720          |
+| The Crichton Royal Institution      | Dumfries                 | 1840             | 45\%          | 800          |
+| Edinburgh Royal Lunatic Asylum      | Edinburgh                | 1813             | 30\%          | 870          |
+| Glasgow Royal Lunatic Asylum        | Gartnavel                | 1814             | 30\%          | 850          |
+| Inverness District Asylum           | Inverness                | 1864             | 30\%          | 540          |
+| Ireland                             | Location                 | Date Founded     | Cure Rate     | Capacity     |
+| Belfast District Asylum             | Belfast                  | 1829             | 30\%          | 656          |
+| Richmond District Asylum            | Dublin                   | 1814             | 35\%          | 1,100        |
+| Eglinton Lunatic Asylum             | Cork                     | 1852             | 20\%          | 1,200        |
+| Donegal District Lunatic Asylum     | Letterkenny, nr. Donegal | 1866             | 30\%          | 300          |
+*Cure rate: roll every month; success means 1D3 Sanity restored. If patient also makes a successful Sanity roll, underlying condition is cured.*
+
+# Water Therapy
+![[Water Therapy.png]]Water was a popular way to treat a variety of conditions. Cold water, either in the form of a bath or shower, might be used to calm down aggressive or excitable patients, while soothing warm water, usually in a bath, was used for patients with melancholy. Patients received baths in specially designed devices, sometimes on a canvas hammock held in place by a metal frame and covered with warm or body temperature water up to their chin. Orderlies then covered the bath with a canvas sheet with a hole for the patient's head, and they would stay there for hours, or sometimes days. Cold water drained at a controlled rate from the bottom of the bath, while warmer water replaced it.
+
+Cold water therapy, on the other hand, could be extreme. In short, sharp bursts of 15 to 20 minutes, doctors prescribed it to soothe those in a highly excitable or manic state. Treatments varied by institution and doctor, but techniques included the following:
+- Tying a patient to a chair and pouring buckets of cold water over their heads.
+- Restraining a patient in a cold shower room and spraying water into their faces.
+- Repeatedly using a chair to immerse a patient into a pool of water until they were at the point of unconsciousness before removing them from the water and allowing them to recover.
+
+# Villainous Organizations
+There is plenty of scope for Keepers to create their own criminal gangs, Freemasonry lodges, and religious or occult societies to be sources of intrigue for investigators. The following organizations are ready-to-use examples for your convenience; feel free to tailor them as enemies, dubious allies, or scenario/campaign hooks-however you wish.
+
+## The Hatfield Club
+Nominally a dining club for students at either Cambridge or Oxford University (Keeper's choice). It is open by invitation only to wealthy upper-class males from aristocratic and royal families, and even by Oxbridge standards, it is elitist and expensive. Few students receive invitations-fewer than half a dozen a year-and they must prove their enthusiasm and loyalty through a series of humiliating initiation tests involving, among other things, a severed pig's head.
+
+When a new member is elected, the others trash his college room in the middle of the night. Members wear a special form of tailor-made dining dress when they meet, which harks back to the frock coats of the Regency Period when the club originated. They vie to host banquets for one another and like to dine in the most exclusive establishments, on the rarest viands, and consuming enormous amounts of vintage champagne and fine wine. Most crockery and crystalware ends up broken.
+
+The Hatfield Club revels in oafish bad behavior, where members play arrogant japes that run the gamut from the tasteless to the cruel and criminalfor example, burning $£ 5$ notes in front of poor people, smashing windows in the restaurant they have hired, or assaulting folk in railway carriages. If challenged, they often retaliate by "debagging" the waiter, train conductor, or policeman-that is, pulling their trousers down.
+
+Whenever anything criminal is committed, they always extravagantly pay off the potential complainant on the spot, trusting to money to solve any and all problems. In the rare cases where people refuse to be bought off, familial connections of the club members make sure nothing comes to court and there are no repercussions; fathers or other Old Hatfield Boys cheerfully lean on police commissioners, the Masters of the University Colleges, business owners, and so on. Members of the Hatfield Club accept a night in jail as part of the fun, since they know they'll be out in the morning, and they have therefore come to acquire the reputation of being untouchable.
+
+Many members of the Hatfield Club go on to become members of the Lords and even Cabinet members. The Riot Club (2014) is a movie depiction of this kind of dining club.
+
+Most Hatfield Club members grow out of their youthful exuberance as other societal pressures come to bear, but, for a few, the thrill of such excess without consequences becomes an irresistible addiction, and they plunge deeper into a defiance of moral and social strictures. For a core group of Old Hatfieldians, the party still goes on-only, now behind the high walls of private country estates. As powerful and influential men, it is easy for them to get away with far worse crimes than mere public debauchery.
+
+Among these "entertainments" is the hunting of human beings with packs of foxhounds. The victims are usually poor and without connection, taken or lured from the streets of London where they will not be missed, and their abductors can't be traced. A "Hatfield Hunt" takes place several times a year, on different landed estates around the country, and ends in the slaughter of a "vixen" (woman), "dog-fox" (man), or "brace" (mixed pair).
+
+Naturally, trusted servants and some family members are aware of these goings on, but Old Hatfieldians are careful to compensate discretion and only target outsiders to their rural communities. Older members carefully vet and groom student members in their debauchery before admitting them to the murderous hunts; by the time they find out the worst, they have more than enough shameful secrets to be blackmailed into silence.
+
+### Possible Plot Connections
+Mysterious disappearances in the East End; the discovery of a body torn apart by "wild animals" in the countryside; a thread in a folk-horror scenario; an upper-class investigator's (or their friend's) shameful past as a Hatfieldian that now becomes pressure to join in the hunt or to atone by bringing the Hatfield Club down.
+
+## The Morley Gang
+![[Gang Gang.png]]
+The early decades of the $19^{\text {th }}$ century were a golden age for Britain's ghouls. The swelling population of the towns, along with frequent outbreaks of cholera and smallpox, meant that churchyards of urban parishes became full to overflowing. Although their traditional territories were increasingly hemmed in by stone streets and the crammed dwellings of the living, there was so much ripe meat available that the ghoul population could boom. Straying and abandoned infants were plentiful and easily converted into new generations of scavengers.
+
+Even though the Resurrection Men prowled the graveyards at night, searching for fresh corpses, there were enough to go around and, by and large, the living and the undead maintained an uneasy truce, with the ghouls having the distinct advantage of being able to tunnel unseen to their quarry.
+
+Then came two blows to this unending feast and frolic. The 1832 Anatomy Act was a minor one (at least from the ghouls' perspective), diverting more corpses from the burial grounds to the anatomical labs. But the mass closure of the parish churchyards on health grounds following the 1852 Burials Act was disastrous. One by one the ancient ghoul feasting grounds emptied, picked clean of their deposits. Although huge new cemeteries opened on the city fringes, they were miles from traditional territories and cut off by a hostile landscape full of the seething mass of humanity.
+
+Ghouls, being naturally wary creatures in the face of superior human numbers and weaponry, and handicapped by not knowing where their food sources were now going, bickered fiercely among themselves; some urged a retreat to the Dreamlands, while others pushed for an aggressively proactive approach to acquiring dead bodies.
+
+This is where the Morley family came in. They were based in the Devil's Acre rookery near Westminster Abbey, London, and the Anatomy Act had dealt a withering blow to their lucrative family business as resurrectionists. As well as selling stolen bodies (for about 10 guineas each, but up to 20 guineas in a time of scarcity) they'd always made money on the side by selling off jewellery and clothes from the corpses they robbed.
+
+When times grew hard, they tried to diversify into the undertaking business to continue their looting activities. Yet, this was risky-the Morleys could only harvest the rings and lockets from cadavers when collected from their homes, just before the coffin was nailed shut and practically under the noses of the bereaved-there was little profit to be made, anyway, from the paupers and lower-middle-class families that Morley and Sons had as clients. They craved a way of getting their hands upon the keepsakes of the extremely rich.
+
+Mary Morley, matriarch of the family, made the bold decision in 1862 to strike up an alliance with the ghouls of London. It has been a remarkably long-lasting and successful partnership.
+
+The first major act was to transport the bulk of the ghoul population, by night and in covered carts, out of the central metropolis to the new cemeteries that opened from the 1830s onward; the biggest ghoul populations are now in Kensal Green, Highgate, and Brompton. Further afield, there are large populations in Glasgow, in Sheffield General Cemetery, in Warstone Lane (Birmingham), in Philips Park (Manchester), and in other cities.
+
+The ghouls play their part by extracting jewellery from coffins after burial and handing it over to the Morleys, who in turn lean hard on sextons, groundskeepers, and cemetery officials to turn a blind eye to the existence and activities of these necrophagous monsters, and make sure that the authorities never hear of it.
+
+In recent years, the Morley Gang has expanded beyond its original family membership and far beyond London; they infiltrated and cowed undertakers' businesses in every major city, keeping an eye on who is buried with what, so that the ghouls may effectively direct their efforts. It is thanks to pressure from the Morley Gang that the American fashion for embalming, which developed after their Civil War, never caught on with the British funeral industry, with bodies normally going into the ground as nature intended: edible.
+
+The originators of this undertaking, Mary Morley and her three sons-Tom, Bert, and William-are still very much alive-though they have handed the reins of business on to succeeding generations, having less interest in money these days. They long ago succumbed to the temptations of eternal life as ghouls, and Mary, a corpulent, voracious eminence with a savage sense of humor, currently dwells in burrows below the Circle of Lebanon in Highgate Cemetery. Lesser officials in the gang are still human.
+### Possible Plot Connections
+Coffins found to be empty during a legal disinterment; a race to lay claim to books, papers, or artifacts buried with an occultist; brutal killings by "wild animals" in or near cemeteries; passage through "the secret portal each tomb is known to have" into the Dreamlands; stories let slip by cemetery staff of strange nocturnal goings on; innocent undertakers asking for help against the "mob" who are taking over.
+
+## Pulp Cthulhu: The Galton Group
+Founded by Francis Galton-Master Mason, Fellow of the Royal Society, medal winner of the Royal Geographical Society, explorer, and trailblazer in diverse fields including psychology, statistics, meteorology, and eugenics-this group consists of scientists and wealthy engineering eccentrics who aim to contact extra-terrestrial lifeforms and enable their forthcoming visit to Earth.
+
+Galton (born 1822) was a child prodigy and widely regarded as a genius. While studying medicine at Trinity College, Cambridge, he suffered a nervous breakdown and was sent to recuperate in the Peak District of Derbyshire, where his family owned property including the Old Tor Mine, near the village of Castleton. While he was there, Galton interested himself in the mining of fluorspar Blue John, the rarest mineral in Britain. Miners presented him with an ovoid crystal that they recently found, and Galton later discovered that it sometimes fluoresced, and that gazing into it at these times gave rise to visions of starscapes and glimpses of distant worlds.
+
+The crystal ovoid was, in fact, a communication device left behind by the mi-go during one of their prospecting visits. It allows the user to see across the vacuum of space. Galton found that it works best when a group concentrates together to guide its visionary "eye," so he gathered a select number of people with astronomical and scientific expertise. This "Galton Group" decided to concentrate on the surface of the planet Mars: they saw red deserts, dried up canals, and crumbling ancient cities. More than that, they saw Martian life.
+
+Plans to communicate with the Martians began immediately. The group assumed from the beginning that they would be, despite appearances, intellectually and morally equal or even superior to humans. A mirror and light array created on Rannoch Moor in Scotland allowed them to operate far from government interference. It proved successful. The Martians noticed the signals, built their own, and replied. From this breakthrough point in 1868, communication flowed back and forth, made considerably easier by the mi-go crystal. Ideas travelled from planet to planet between rational scientific minds, human and inhuman. Galton and his group, intoxicated by the thrill and pride of their discovery, completely overlooked the obvious dangers.
+
+The Martians live on a depleted world. Their minerals, seas, and even their atmosphere, exhausted long ago by the mi-go's strip mining, left only a fraction of the population that has mostly retreated underground. They practice a ruthless culling of weaker or unproductive individuals simply to stay alive; their "rational eugenics" inspire Galton to theorize publicly about its application on Earth, without him realizing (or, perhaps, caring) that it is a system born of crisis. The Martians can't see Earth - they have no mi-go crystal-but they know now that it is rich in resources and ripe for conquest.
+
+Most of the Galton Group are now well into a fanatical madness driven by repeated visions. They regard the Martians as a superior form of life, possessed of advanced scientific knowledge. They urge their Martian "friends" to descend to Earth and raise humanity to a new technological and social level, and the Martians are only too keen to oblige.
+
+Blueprints, sent piecemeal from Mars, permit the construction of machines that allow soft Martian bodies to move about freely in Earth's heavier gravity, and human engineers have set about secretly creating these, ready for the visitors' arrival. On Mars, rockets are in full production. The Martians are coming. And the Galton Group will delight in selling out Earth.
+
+The Galton Group are wealthy, elitist, and they possess technology far in advance of the Victorian norm, including heat-rays, robotic walking machines, and a telegeodynamic oscillator (an earthquake machine). When encountered, they believe they are working for the betterment of humankind, sort of-the mass of humanity is barely above the level of the dumb beasts, after all. It would not do to let a sentimental attachment to one's own species get in the way of scientific and rational progress, would it?
+
+***Note: if desired, the Keeper can reframe this plot to avoid Martians by substituting the denizens of Mars with another Mythos race, which could even be the mi-go pretending to be the Martians.***
+
+### The Crystal Egg (Mi-Go Artifact)
+Usage Cost: 1 magic point per minute (groups may share this cost), and 1 Sanity point per viewing, per person.
+
+A white, crystal ovoid with faint blue striations. At night, viewed at an angle of 137 degrees from a ray of moonlight less than one millimeter wide, it produces random visions of cosmic landscapes, which the users can "steer" by effort of will. Makes a highly effective scrying device. If focused on a device of the same kind, it allows visual communication between two simultaneous users, although there is no audible component-mi-go converse by means of color changes to the "head" area, of course.
+![[Egg.png]]
+
+## SERVANTS OF THE EMPIRE
+
+There are some who think that the British Empire is not ambitious enough, and that the nation and the world would benefit if Her Majesty ruled not just half the globe, but the whole thing. A task this enormous is logistically impossible given current resources, but they believe the key to expansion is found in the use of magic. And, luckily, there are some of Her Majesty's loyal servants who know that magic does exist, and are prepared to use it.
+
+A loose cabal of civil servants and administrators working largely within the Colonial Office and the India Office, the "Servants of the Empire" began while The Right Honorable Sir Edward Bulwer-Lytton was Secretary of State for the Colonies from 1858-1859 (see Cthulhu by Gaslight: Investigators' Guide, Chapter 5 for more on the occultist Bulwer-Lytton). At this time, the remit was a largely defensive one: to keep an eye out for cults and weird activity in the colonies and suppress this by any means necessary. The campaign against the Thuggee cult in India (1830s onward, under Captain William Sleeman) was the model for this activity.
+
+Secretaries of State come and go with governments; since Bulwer-Lytton's time, most have been skeptical about occult powers, regarding "native cults" as a trivial political nuisance rather than a real threat, so the Servants of Empire have had to make do without official sanction or support, and without political oversight. Attitude towards Empire has changed too, and the Servants have become more hardline and expansionist. These days, their self-appointed tasks are the search for weaponizable magical spells and devices, particularly in the colonies, the removal of them from the hands of subject peoples, and the addition of them to the armory of the Empire.
+
+Communication between the members occurs through the diplomatic bag or by telegraph. Messages are encoded. Action is ad-hoc, covert, and furtive, and is frequently disguised as some form of pacification, exploration, or diplomacy. Monies are sometimes made available or diverted for small-scale military action. Most colonial administrators in the field have an army background, experience in skirmish warfare, and of dealing (forcefully or politically) with indigenous populations. Many are leaking Sanity like rusty buckets, and their contact with Cthulhu Mythos magic, particularly any attempt to deploy spells, only makes this worse.
+
+Any devices, artifacts, or tomes recovered in these expeditions are eventually safely stored, either in the Tower of London or the British Museum. Sometimes these "treasures" are subsequently deployed in the field of conflict, though this is covert; the Servants feel the need of more political support to act openly and with confidence. When they do launch an expedition, they act ruthlessly- in their eyes, the imperialist end more than justifies any means. With members and contacts in the War Office, they are likely to be able to provide access to explosives and rockets.
+
+Artifacts held in the Tower of London include the true box of Joanna Southcott's (d.1814) prophecies, which must only be opened in the presence of 24 bishops; the wampum regalia of Metacom/ King Philip of the Wampanoag (surrendered 1676 at Anawan Rock); and the Koh-i-Noor diamond ("Mountain of Light"), an oval-cut gem looted during the annexation of the Punjab in 1849 from the last heir, the child-Maharaja, Duleep Singh. Prince Albert had it recut, and it became a brooch sometimes worn by Victoria. According to Hindu folklore, "He who owns this diamond will own the world, but will also know all its misfortunes. Only God or a woman can wear it with impunity."
+
+### Possible Plot Connections
+The Servants of the Empire are, in the first instance, likely to show up as "allies" for any British investigator group overseas. They might commission a group to investigate cult activity, suppress a rebellion, find an artifact or tome, perform an archeological excavation, discover a lost ruin, and so on. They are careful to always frame their activities as "defending the Empire and its peaceful subjects." Over an extended campaign, the investigators come to discover that the Servants' ultimate goal is worldwide British dominion, in which no resistance or dissent will be permitted, turning the cabal from allies into ruthless enemies.
+
+![[Oh Lord.png]]
