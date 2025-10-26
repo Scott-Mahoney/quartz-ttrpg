@@ -37,7 +37,7 @@ The relieving officer conducts interviews with those who wish to enter the workh
 - Girls aged between 7 and 14.
 - Children under the age of 7.
 
-![[assets/images/Cthulhu by gaslight/Workhouse.png]]
+![[Workhouse.png]]
 
 Each person receives a bath, a medical examination, and a “workhouse dress” (which resembles a uniform)—workhouse staff store away personal clothing and possessions in case the inmate should choose to leave. They separate the families, except for children under the age of two, sometimes never to see each other again, as each category is allocated to a communal dormitory, with segregated dining and work areas. It is this separation that most frightens inmates. Desperate
 overcrowding exists in all areas and facilities, and architects set the windows and walls to prevent any view of the outside world.
