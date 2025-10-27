@@ -166,10 +166,11 @@ As with all spell learning, the first time the magician casts a new spell, they 
 
 Note that depending on the year, Inner Order accomplishments vary, as per [[02 - Occult Secrets & The Golden Dawn#Table 4 Inner Order Accomplishments (1888-1893) | Table 4 (page 53) ]] for the years 1888-1893 and [[02 - Occult Secrets & The Golden Dawn#Table 5 Inner Order Accomplishments (1894 Onwards)| Table 5 (page 53)]] for 1894 onward.
 
-## HERMETIC SKILLS (OPTIONAL)
+## Hermetic Skills (Optional)
 
 These skills are optional. They focus on dealing with the Astral Plane. If you feel they don't fit into your campaign, leave them out. Two are POW-based, because they rely on semi-mystical insight and magical talent.
-### HERMETIC RITUAL (BASE: 01%) <br> *After Neophyte initiation.
+### Hermetic Ritual (BASE: 01%) 
+*After Neophyte initiation.
 
 Represents a facility at performing the elaborate rites of the Hermetic Order of the Golden Dawn. It is not simply academic knowledge, and this skill does not increase through book learning, only through participation. It includes the ability to remember all the correct movements and words, an understanding of the symbolism involved, the mental discipline to hold exactly the right imagery and attitudes in mind without distraction, a physical fluidity with the gestures and actions, and the ability to intone the magical words with the right emphasis and drama.
 
@@ -321,5 +322,15 @@ The two creatures following are the most common fauna native to the plane, and a
 [[Astral Predator | Astral Predator, sharks from beyond]]
 
 [[Astral Vermin | Astral Vermin, parasitic feeders]]
+
+
+## Hermetic Spells
+Hermetic spells, like Folk Magic, tend to be low-powered in comparison to Mythos spells, and are also zero to low-cost in terms of Sanity as they are meant to be cast regularly as part of magical practice. Hermetic spells are entirely concerned with the challenges of Astral Travel. These spells, as previously noted, are taught to members of the Hermetic Order of the Golden Dawn, although students of other occult traditions may know these spells at the Keeper's discretion.
+
+### Outer Order Spells
+[[Pentagram of Protection]]
+[[Restorative Meditation]]
+### Inner Order Spells
+[[Amulet of Astral Protection]]
 
 
