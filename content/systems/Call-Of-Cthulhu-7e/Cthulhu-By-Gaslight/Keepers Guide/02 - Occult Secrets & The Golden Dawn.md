@@ -317,6 +317,9 @@ Many different types of entities inhabit or move through the Astral Plane, inclu
 *\*\*See Malleus Monstrorum (Vol. 1).*
 
 The two creatures following are the most common fauna native to the plane, and are suitable antagonists for investigators' first astral explorations.
+
 [[Astral Predator | Astral Predator, sharks from beyond]]
+
 [[Astral Vermin | Astral Vermin, parasitic feeders]]
+
 
